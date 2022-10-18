@@ -7,11 +7,11 @@
   - 📌  Escolaridade: Ensino Médio
 
 ### Minhas Skills:
-Java
-Python
-JavaScript
-NodeJS
-TypeScript
+  - Java 
+  - Python
+  - JavaScript
+  - NodeJS
+  - TypeScript
 
 <div align="center">
   <a href="https://github.com/SrEditionn">
