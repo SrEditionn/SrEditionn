@@ -1,6 +1,6 @@
 ## Iae, tranks? então, me chamo Renan Jordan, e estou aprendendo a parte de Programação em varias Linguas.
 
-<p align="center" ><img width="100" alt="SrEdit" src="https://i.imgur.com/lMmQfxP.png"></p>
+<p align="center" ><img width="250" alt="SrEdit" src="https://i.imgur.com/lMmQfxP.png"></p>
 
 ### Sobre mim:
   - 📌  16 Years Old
