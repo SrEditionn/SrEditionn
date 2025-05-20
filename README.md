@@ -3,8 +3,7 @@
 <p align="center" ><img width="350" alt="SrEdit" src="https://i.imgur.com/lMmQfxP.png"></p>
 
 ### Sobre mim:
-  - 📌  16 Years Old
-  - 📌  Escolaridade: Ensino Médio
+  - 📌  17 old
 
 ### Minhas Skills:
   - Java 
@@ -12,6 +11,7 @@
   - JavaScript
   - NodeJS
   - TypeScript
+  - Kotlin
 
 <div align="center">
   <a href="https://github.com/SrEditionn">
@@ -29,7 +29,7 @@
   ##
  
 <div> 
-  <a href="https://wa.me/559180507615" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-R17535?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/5521967584137" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-R17535?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://t.me/559180507615" target="_blank"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="mailto:sreditionbr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-GMail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
