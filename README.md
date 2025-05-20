@@ -30,8 +30,7 @@
  
 <div> 
   <a href="https://wa.me/5521967584137" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-R17535?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="https://t.me/559180507615" target="_blank"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-  <a href="mailto:sreditionbr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-GMail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://t.me/5521967584137" target="_blank"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 
   ![Snake animation](https://github.com/LucasHRTeam/LucasHRTeam/blob/output/github-contribution-grid-snake.svg)
  
