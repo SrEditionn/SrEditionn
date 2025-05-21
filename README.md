@@ -1,4 +1,4 @@
-## Iae, tranks? então, me chamo Renan Jordan, e estou aprendendo a parte de Programação em varias Linguas.
+## Me chamo Renan Jordan, e faço uns codigos bem loucos, as vezes coloco aqui.
 
 <p align="center" ><img width="350" alt="SrEdit" src="https://i.imgur.com/lMmQfxP.png"></p>
 
