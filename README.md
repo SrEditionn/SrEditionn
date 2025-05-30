@@ -1,4 +1,4 @@
-## Me chamo Renan Jordan, e faço uns codigos bem loucos, as vezes coloco aqui.
+## Me chamo Jordan, e faço uns codigos bem loucos, as vezes coloco aqui.
 
 <p align="center" ><img width="350" alt="SrEdit" src="https://i.imgur.com/lMmQfxP.png"></p>
 
